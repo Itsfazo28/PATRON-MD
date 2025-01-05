@@ -1,6 +1,6 @@
 global.bankname = "FAZ×GAMING"
 
-global.banknumber = "255622048500 "
+global.banknumber = "255622048500"
 
 global.bankowner = "FAZO"
 
